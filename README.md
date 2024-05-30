@@ -20,9 +20,7 @@ Live site: https://zoomie.drymrz.tech
 
 ## To-do/ to-be fixed
 
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-**Improvements**:
+**Issue**:
 
 - Stream Analytics Button on Meeting: Add close Button
 - Handle mobile-client back-button
